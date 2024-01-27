@@ -74,11 +74,6 @@ function reinicarJuego() {
   limpiarCaja();
   /// mensaje de inicio
   condicionesIniciales();
-  ///generar número aleatorio
-//numeroSectreto = generarNumeroSecreto();
-  ///desahabilitar boton 
-  
-  ///reiniciar número de inventos 
 }
 
 condicionesIniciales();
